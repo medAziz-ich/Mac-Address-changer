@@ -20,7 +20,7 @@ Requirements
 Usage
 
 After compiling the program with the included Makefile, run it as follows:
-      sudo ./chanmac <network_interface>
+    sudo ./chanmac <network_interface>
 
 Explanation of Key Files
 
