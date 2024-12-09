@@ -18,8 +18,7 @@ Requirements
     Compiler: GCC or compatible C compiler with support for the C2x standard.
 
 Usage
-
-After compiling the program with the included Makefile, run it as follows:
+    
     sudo ./chanmac <network_interface>
 
 Explanation of Key Files
